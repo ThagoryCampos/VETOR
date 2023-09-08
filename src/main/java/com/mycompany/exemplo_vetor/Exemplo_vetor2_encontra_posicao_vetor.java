@@ -1,3 +1,5 @@
+package com.mycompany.exemplo_vetor;
+
 
 import java.util.Scanner;
 
@@ -7,10 +9,10 @@ import java.util.Scanner;
  */
 
 /**
- *
+ 
  * @author thagory.8187
  */
-public class Exemplo_vetor2 {
+public class Exemplo_vetor2_encontra_posicao_vetor {
     public static void main(String args []){
         Scanner scanner = new Scanner (System.in);
         
