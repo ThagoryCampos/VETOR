@@ -21,7 +21,7 @@ public class Atividade_5_valores_pares {
             vetor [3] = 87;
             vetor [4] = 15;
             
-        for(int i = 0; i <vetor.length; i++){
+        for(int i = 0; i < vetor.length; i++){
             if((vetor[i] % 2) == 0){
                 System.out.println("Numero Par");
             }    
