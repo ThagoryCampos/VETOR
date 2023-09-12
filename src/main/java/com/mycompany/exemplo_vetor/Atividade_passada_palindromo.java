@@ -14,7 +14,7 @@ public class Atividade_passada_palindromo {
     public static void main (String args []){
         Scanner scanner = new Scanner (System.in);
         
-    		System.out.println("Digite uma palavra ou frase:");
+    		System.out.println("Informe uma palavra: ");
     		String palavra = scanner.nextLine();
     		String palindromo = "";
     		
