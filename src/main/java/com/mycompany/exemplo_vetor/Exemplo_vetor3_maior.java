@@ -29,8 +29,7 @@ public class Exemplo_vetor3_maior {
             }
 //            System.out.println(vetor[i]);
         }
-        System.out.println("O maior valor neste vetor é: " + maior);
-        
+            System.out.println("O maior valor neste vetor é: " + maior);
     }
     
 }
